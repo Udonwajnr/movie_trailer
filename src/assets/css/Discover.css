@@ -1,0 +1,28 @@
+.slick-slide>div {
+    margin: 0 10px;
+    outline: none;
+}
+
+.slick-slide {
+    outline: none
+}
+.slick-list {
+    margin: 0 -10px;
+}
+
+.detail{
+    background-color: rgba(0, 0, 0,0.1);
+}
+
+.slick-slide div {
+    outline: none;
+}
+
+.slick-dots li button:before {
+    background-color: #fff;
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    text-indent: -9999px;
+    overflow: hidden;
+}

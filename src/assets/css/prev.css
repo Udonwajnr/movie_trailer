@@ -1,0 +1,12 @@
+/* .slick-prev:before,
+.slick-next:before {
+font-size: 20px;
+    line-height: 1;
+    color: #00558B;
+    opacity: .75;
+} */
+
+.button__bar :global(li.slick-active) button {
+    opacity: .75;
+    color:blue;
+}
